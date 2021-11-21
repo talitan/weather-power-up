@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "TN weather power-up for Trello",
   "main": "index.js",
-  "repository": "https://github.com/talitan/TN-weather-power-up.git",
+  "repository": "https://github.com/talitan/weather-power-up.git",
   "author": "Me",
   "license": "MIT",
   "engines": {
