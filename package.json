@@ -7,7 +7,7 @@
   "author": "Me",
   "license": "MIT",
   "engines": {
-    "node": "12"
+    "node": "16"
   },
   "scripts": {
     "build": "parcel build src/html/*.html",
