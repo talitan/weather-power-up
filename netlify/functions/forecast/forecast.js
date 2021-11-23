@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 /* eslint-disable no-console */
 const bent = require('bent');
 const jwt = require('jsonwebtoken');

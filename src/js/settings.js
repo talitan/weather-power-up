@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { defaultUnitForLocale } from './modules/util';
 import localizationSettings from './modules/localizationSettings';
 

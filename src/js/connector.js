@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { defaultUnitForLocale, celsiusToFahrenheit, kphToMph } from './modules/util';
 import fetchWeatherData from './modules/api';
 import getConditionKey from './modules/conditions-map';
